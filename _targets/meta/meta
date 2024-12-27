@@ -1,0 +1,19 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|c9a61cca1d3355cd|||||||||||||||
+benchmark_time|stem|7004d1886a2e3be4|9601265ef51ebd28|5bc29ed11f43548d|-118543237||t20084.0731340804s|46a4b1d29c239b0c|345|rds|local|vector|||669.8||
+compare_precison|function|5d7bd61b46d1dc94|||||||||||||||
+compare_result_categories|stem|2989d76644be2326|2b2881d83bedd2b9|17c4fb82659a6ba1|1410606351||t20084.7947776999s|d52519d7996e0e3d|1346|rds|local|vector|||0.47||
+create_py_env|function|b0fdc4f3eefed011|||||||||||||||
+e|object|08d5f59e833de599|||||||||||||||
+fig_benchmark_time|stem|0a6385cf19b60475|3978f5bf31a114ca|d000405c465c0e06|-889117447||t20084.7962844722s|e7b83425a991cb39|73|rds|local|vector|||0.33||
+figure_benchmark_time|stem|0a6385cf19b60475|3978f5bf31a114ca|753d103de71861f2|-1859202328||t20083.9903769518s|e7b83425a991cb39|73|rds|local|vector|||0.33||
+figure_time|function|f27e7d1ba65b5fbd|||||||||||||||
+generate_sample_data|function|c537a84f1340baa9|||||||||||||||
+geocodebr_fun|function|5f918d09c0cfb36f|||||||||||||||
+geocodebr_output|stem|002cef324025df60|d6814248819fc1b6|b143b90117046476|1716360234||t20084.0653800935s|d25d6c5639dd10f8|4337575|rds|local|vector|||12.63||
+geocodepro_fun|function|bdc7a6c754f9cc3b|||||||||||||||
+geocodepro_output|stem|7703bfca6104f1fe|c7a899030d8a491a|31e96551408193e1|-1686658132||t20084.0652141666s|069c2866d1801d19|3582317|rds|local|vector|||70.21||
+get_sample_data|stem|06d92ccae76a3b96|d608ed45fa47b410|d3d15913f508ea69|890543039||t20083.7088228947s|115682b3d140ee03|417760|rds|local|vector|||18.06||
+python_env|stem|e1bcb7924f4c872f|c2abd13a1a6d79f6|93510d6681c9d5b5|-851222530||t20083.8050864656s|d21be8cf0dd771ce|44|rds|local|vector|||4.53||
+python_enviroment|stem|e1bcb7924f4c872f|c5538c9bf64bcb67|2c530c1562a7fbd1|-12981630||t20083.7799933308s|d21be8cf0dd771ce|44|rds|local|vector|||3.48||
+sample_data|stem|9c63f88656f0d451|50784eabd1bafafa|d932a5f26b7f8e17|-453929059||t20084.0627656953s|25497561cf938b4a|3022131|rds|local|vector|||16.97|Potentially unsafe or invalid elements have been discarded from R metadata.ℹ Type externalptr If you trust the source, you can set optionsarrow.unsafe_metadata  TRUE to preserve them.. Potentially unsafe or invalid elements have been discarded from R metadata.ℹ Type externalptr If you trust the source, you can set optionsarrow.unsafe_metadata  TRUE to preserve them.. Potentially unsafe or invalid elements have been discarded from R metadata.ℹ Type externalptr If you trust the source, you can set optionsarrow.unsafe_metadata  TRUE to preserve them.|
